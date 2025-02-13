@@ -1,0 +1,11 @@
+Employee_ID,Name,Age,Department,Monthly_Salary,Experience,Performance_Score,Remote
+101,John Doe,28,IT,4500,3,4.2,1
+102,Jane Smith,35,HR,5200,7,4.8,0
+103,Michael Brown,40,Sales,6000,10,3.9,1
+104,Emily Davis,26,Marketing,4000,2,4.5,1
+105,David Wilson,50,Finance,7000,15,4.1,0
+106,Linda Martinez,29,IT,,4,4.0,1
+107,James Anderson,31,Sales,5600,6,3.5,0
+108,Patricia Thomas,45,HR,6500,12,4.7,1
+109,Robert Jackson,39,Finance,6200,9,,0
+110,Mary White,27,Marketing,4800,3,4.3,1
